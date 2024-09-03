@@ -10,7 +10,7 @@ permalink: /terms-of-service/
 
 ## 1. Introduction
 
-Welcome to **{{ site.title }}**. These Terms of Service (“Terms”, “Terms of Service”) govern your use of our Discord bot and related services.
+Welcome to Shinra. These Terms of Service (“Terms”, “Terms of Service”) govern your use of our Discord bot and related services.
 
 ## 2. Acceptance of Terms
 
