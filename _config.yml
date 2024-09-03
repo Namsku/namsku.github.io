@@ -25,6 +25,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Exclude the privacy policy from the main blog listing
+exclude:
+  - _pages/terms-of-service.md
+  - _pages/privacy-policy-shinra.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
